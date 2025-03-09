@@ -1,4 +1,4 @@
 # NIVU
 This is my first git repository.
 <br>
-Author - NIVEDRAJ P
+Author - NIVEDRAJ P(CEO)
